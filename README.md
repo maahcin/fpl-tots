@@ -1,4 +1,4 @@
-# fpl-tots
+# Fantasy Premier League TOTS
  Python code to create Team of the Season for your fantasy team
 
 ## My 2022/23 Team of the Season
